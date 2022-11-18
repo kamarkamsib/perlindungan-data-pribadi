@@ -1,3 +1,20 @@
+<p>
+_  __                            _  __                   _ _     
+| |/ /                           | |/ /                  (_) |    
+| ' / __ _ _ __ ___   __ _ _ __  | ' / __ _ _ __ ___  ___ _| |__  
+|  < / _` | '_ ` _ \ / _` | '__| |  < / _` | '_ ` _ \/ __| | '_ \ 
+| . \ (_| | | | | | | (_| | |    | . \ (_| | | | | | \__ \ | |_) |
+|_|\_\__,_|_| |_| |_|\__,_|_|    |_|\_\__,_|_| |_| |_|___/_|_.__/ 
+                                                                  
+
+                8 w          8                                     8       w                       w 8            8 w
+88b. .d88b 8d8b 8 w 8d8b. .d88 8   8 8d8b. .d88 .d88 8d8b.      .d88 .d88 w8ww .d88      88b. 8d8b w 88b. .d88 .d88 w
+8  8 8.dP' 8P   8 8 8P Y8 8  8 8b d8 8P Y8 8  8 8  8 8P Y8 wwww 8  8 8  8  8   8  8 wwww 8  8 8P   8 8  8 8  8 8  8 8
+88P' `Y88P 8    8 8 8   8 `Y88 `Y8P8 8   8 `Y88 `Y88 8   8      `Y88 `Y88  Y8P `Y88      88P' 8    8 88P' `Y88 `Y88 8
+8                                          wwdP                                          8                           
+                                                  
+</p>
+
 # Perlindungan Data Pribadi
 
 Kiblat utama Kamar Kamsib dalam mebahas Data Pribadi adalah UU Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi. Pembahasan ini khusus dibuatkan sebuah pojok tersendiri karena pembahasannya cukup heboh.
