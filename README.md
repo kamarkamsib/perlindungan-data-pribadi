@@ -38,8 +38,10 @@ KETENTUAN PENUTUP
 
 Undang-Undang ini mulai berlaku pada tanggal diundangkan.
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Undang-Undang ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+
 Disahkan di Jakarta
-pada tanggal L7 Oktober 2O22
+pada tanggal 17 Oktober 2022
+
 Halaman -34-
 
-# ==========================================
+## ==========================================
