@@ -49,6 +49,7 @@ Halaman -34-
 BAB IX
 KELEMBAGAAN
 Pasal 58
+
 (1) Pemerintah berperan dalam penyelenggaraan Pelindungan Data Pribadi sesuai dengan ketentuan Undang-Undang ini.
 
 (2) Penyelenggaraan Pelindungan Data Pribadi sebagaimana dimaksud pada ayat (1) dilaksanakan oleh lembaga.
