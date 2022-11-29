@@ -44,7 +44,7 @@ pada tanggal 17 Oktober 2022
 
 Halaman -34-
 
-## ==========================================
+## :two_hearts: :revolving_hearts: :two_hearts: :revolving_hearts: :two_hearts: :revolving_hearts:
 
 BAB IX
 KELEMBAGAAN
@@ -59,3 +59,5 @@ Pasal 58
 (4) Lembaga sebagaimana dimaksud pada ayat (2) bertanggung jawab kepada Presiden.
 
 (5) Ketentuan lebih lanjut mengenai lembaga sebagaimana dimaksud pada ayat (2) diatur dengan Peraturan Presiden.
+
+## :two_hearts: :revolving_hearts: :two_hearts: :revolving_hearts: :two_hearts: :revolving_hearts:
